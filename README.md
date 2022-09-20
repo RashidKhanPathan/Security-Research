@@ -12,7 +12,7 @@
 
 ##### Tested on: Windows 10, Kali Linux
 
-#### CVE : CVE-2022-37059
+## CVE : CVE-2022-37059
 
 Steps to Reproduce:
 1: Goto on This URL http://localhost/subrioncms/panel/

@@ -1,6 +1,6 @@
 # Security-Research
 
-# Exploit Title: [Cross Site Scripting (XSS) in Admin Panel of Subrion CMS 4.2.1]
+# Exploit Title: Cross Site Scripting (XSS) in Admin Panel of Subrion CMS 4.2.1
 # Date: [24 July 2022]
 # Exploit Author: [RashidKhan Pathan]
 # Vendor Homepage: [https://subrion.org/]
